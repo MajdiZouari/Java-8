@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Animal.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Canin.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Chien.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Felin.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Loup.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/animals/Test.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/collections/Main.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/latest/Mitose.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/latest/Pondre.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/latest/Reproduction.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/villes/Capitale.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/villes/NombreHabitantException.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/villes/Sdz1.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/com/sdz/villes/Ville.java" charset="ISO-8859-1" />
+  </component>
+</project>
