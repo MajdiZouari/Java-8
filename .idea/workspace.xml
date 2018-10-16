@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a5ef21-dc7c-4ff9-8e51-51eeb31f53a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/executor/ServerLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdz/singleton/SdzSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdz/singleton/TestSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/executor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/executor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/executor/MonRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/executor/MonRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/CompteEnBanque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/CompteEnBanque.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/RunImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/RunImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/lesThreads/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/MonRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/MonRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/ServerLuncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/CompteEnBanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/CompteEnBanque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/RunImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/RunImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/TestThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,90 +19,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/Main.java">
+      <file leaf-file-name="SdzSingleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sdz/singleton/SdzSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1782">
-              <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Execution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/Execution.java">
+      <file leaf-file-name="TestSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sdz/singleton/TestSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/Task.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/TestTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#372#391#0" expanded="true" />
-                <element signature="e#1316#1325#0" expanded="true" />
-                <element signature="e#1493#1510#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonCallable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/MonCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerLauncher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/ServerLauncher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#1447#1448#0" expanded="true" />
-                <element signature="e#1491#1492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonRunnable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/MonRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="90">
+              <caret line="5" column="74" lean-forward="true" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -150,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sdz/interfaces/Mitose.java" />
-        <option value="$PROJECT_DIR$/src/com/sdz/interfaces/Reproduction.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/generecite/Solo.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/generecite/Duo.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/generecite/VoitureSansPermis.java" />
@@ -201,6 +120,8 @@
         <option value="$PROJECT_DIR$/src/com/sdz/executor/ServerLauncher.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/executor/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/singleton/TestSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/singleton/SdzSingleton.java" />
       </list>
     </option>
   </component>
@@ -247,21 +168,7 @@
               <item name="projet1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sdz" type="462c0819:PsiDirectoryNode" />
-              <item name="animals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sdz" type="462c0819:PsiDirectoryNode" />
-              <item name="executor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sdz" type="462c0819:PsiDirectoryNode" />
-              <item name="lesThreads" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTask">
+  <component name="RunManager" selected="Application.TestSingleton">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sdz.executor.Main" />
       <module name="projet1" />
@@ -322,13 +229,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdz.Stream.TestStream" />
+    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdz.singleton.TestSingleton" />
       <module name="projet1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdz.Stream.*" />
+          <option name="PATTERN" value="com.sdz.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +293,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TestStream" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ServerLauncher" />
       <item itemvalue="Application.TestTask" />
+      <item itemvalue="Application.TestSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSingleton" />
         <item itemvalue="Application.TestTask" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ServerLauncher" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestStream" />
       </list>
     </recent_temporary>
   </component>
@@ -432,15 +339,16 @@
       <workItem from="1539290087062" duration="13083000" />
       <workItem from="1539436951512" duration="3085000" />
       <workItem from="1539550942839" duration="26298000" />
-      <workItem from="1539697979927" duration="8500000" />
+      <workItem from="1539697979927" duration="10639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82017000" />
+    <option name="totallyTimeSpent" value="84156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-5" width="1858" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,10 +359,10 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901832" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Mongo Explorer" order="5" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32901832" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="right" id="Jenkins" order="9" />
       <window_info id="Designer" order="2" />
@@ -481,20 +389,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/personnages/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/comportement/AucunSoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/comportement/CombatCouteau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -856,8 +750,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/executor/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/singleton/TestSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="74" lean-forward="true" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/singleton/SdzSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
