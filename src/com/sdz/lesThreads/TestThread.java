@@ -1,6 +1,16 @@
 package com.sdz.lesThreads;
 
 public class TestThread extends Thread {
+    /*
+    public TestThread(String name){
+        super(name);
+    }
+    public void run(){
+        for(int i = 0; i < 10; i++)
+            System.out.println(this.getName());
+    }
+    */
+    /****************      Afficher les états des Threads        ****************/
     Thread t;
     public TestThread(String name){
         super(name);
@@ -18,7 +28,7 @@ public class TestThread extends Thread {
     }
 
     public void run(){
-        for(int i = 0; i < 10; i++){
+        for(int i = 0; i < 100; i++){
             System.out.println("Run : statut " + this.getName() + " = " +this.getState());
             if(t != null)
                 System.out.println("Run : statut de " + t.getName() +" = " +t.getState()+ " pendant le thread " + this.getName() +" = " +this.getState());
@@ -28,4 +38,5 @@ public class TestThread extends Thread {
     public void setThread(Thread t){
         this.t = t;
     }
+
 }

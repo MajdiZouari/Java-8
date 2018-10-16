@@ -5,7 +5,7 @@ public class CompteEnBanque {
 
     public int getSolde(){
         if(this.solde < 0)
-            System.out.println("Vous êtes à découvert !");
+            System.out.println("Vous etes a decouvert !");
 
         return this.solde;
     }

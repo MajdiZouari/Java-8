@@ -6,30 +6,31 @@ import java.util.concurrent.*;
 
 public class TestTask {
 
+    /**************************   Service de terminaison : ExecutorCompletionService   **********************************/
     public static void main(String[] args) {
-
-        List<Callable<Integer>> taches = new ArrayList<Callable<Integer>>();
-
+        //Notre liste qui va contenir toutes les tâches
+        List<Callable<Integer>> taches = new
+                ArrayList<Callable<Integer>>();
+        //On créé 4 tâches avec un paramètre pour le Thread.sleep() différent.
         Callable<Integer> tache1 = new Task(1);
         Callable<Integer> tache2 = new Task(5);
         Callable<Integer> tache3 = new Task(10);
         Callable<Integer> tache4 = new Task(2);
-
+        //On ajoute ces taches à la liste
         taches.add(tache1);
         taches.add(tache2);
         taches.add(tache3);
         taches.add(tache4);
-
+        //On instancie un executor contenant 10 threads pour pouvoir exécuter nos actions en parallèles
         ExecutorService executor = Executors.newFixedThreadPool(10);
-
         resoudre(executor, taches);
     }
 
-    public static void resoudre(final ExecutorService executor, List<Callable<Integer>> taches){
-
+    public static void resoudre(final ExecutorService executor,
+                                List<Callable<Integer>> taches) {
         //Le service de terminaison
-        CompletionService<Integer> completionService = new ExecutorCompletionService<Integer>(executor);
-
+        CompletionService<Integer> completionService = new
+                ExecutorCompletionService<Integer>(executor);
         //une liste de Future pour récupérer les résultats
         List<Future<Integer>> futures = new ArrayList<Future<Integer>>();
 
@@ -65,3 +66,4 @@ public class TestTask {
         }
     }
 }
+
