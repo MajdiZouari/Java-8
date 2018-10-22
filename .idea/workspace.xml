@@ -9,20 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a5ef21-dc7c-4ff9-8e51-51eeb31f53a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MonAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/NIVEAU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestBis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestMonAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestTer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoHTMLProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projet1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,111 +26,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MonAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MonAnnotation.java">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/Todo.java">
+      <file leaf-file-name="CalculatorImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="792">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorImplTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoProcessor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoHTMLProcessor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoHTMLProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-738">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaClasse1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaClasse2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaClasse3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NIVEAU.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/NIVEAU.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMonAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestMonAnnotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -148,11 +67,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Singleton" />
         <option value="Enum" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
       </list>
     </option>
   </component>
@@ -176,11 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" />
-        <option value="$PROJECT_DIR$/src/com/sdz/singleton/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/com/sdz/singleton/SdzSingleton.java" />
-        <option value="$PROJECT_DIR$/src/com/sdz/mvc/Observable.java" />
-        <option value="$PROJECT_DIR$/src/com/sdz/mvc/observer/Observer.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/mvc/controler/AbstractControler.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/mvc/controler/CalculetteControler.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/mvc/Main.java" />
@@ -227,6 +142,11 @@
         <option value="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse1.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoProcessor.java" />
         <option value="$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoHTMLProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/test/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java" />
       </list>
     </option>
   </component>
@@ -271,15 +191,37 @@
               <item name="projet1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sdz" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
               <item name="projet1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sdz" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
-              <item name="monAnnotation" type="462c0819:PsiDirectoryNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdz" type="462c0819:PsiDirectoryNode" />
+              <item name="testsUnitaires" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdz" type="462c0819:PsiDirectoryNode" />
+              <item name="testsUnitaires" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdz" type="462c0819:PsiDirectoryNode" />
+              <item name="testsUnitaires" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projet1" type="b2602c69:ProjectViewProjectNode" />
@@ -292,9 +234,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,8 +246,19 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="projet1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sdz.testsUnitaires.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.CalculatorImplTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sdz.annotations.annotationDeprecated.Main" />
       <module name="projet1" />
@@ -353,17 +306,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdz.personnages.Test" />
-      <module name="projet1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdz.personnages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sdz.annotations.annotationPackage.TestMain" />
       <module name="projet1" />
@@ -377,6 +319,29 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CalculatorImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projet1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdz.testsUnitaires.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sdz.testsUnitaires.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sdz.testsUnitaires.test.CalculatorImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -418,18 +383,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Sdz1" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.TestMain" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CalculatorImplTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorImplTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Sdz1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -467,12 +432,33 @@
       <workItem from="1539778790208" duration="3000" />
       <workItem from="1539778805316" duration="228000" />
       <workItem from="1539814142492" duration="7052000" />
-      <workItem from="1539982138696" duration="10369000" />
+      <workItem from="1539982138696" duration="10889000" />
+      <workItem from="1540232992613" duration="3568000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 02m 50s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 08m 52s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 10m 55s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 12m 29s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 15m 13s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorImplTest - 2018.10.22 at 23h 19m 42s.xml">
+      <configuration name="CalculatorImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103088000" />
+    <option name="totallyTimeSpent" value="107176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="-8" width="1860" height="1089" extended-state="6" />
@@ -495,11 +481,11 @@
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901832" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32901832" />
       <window_info anchor="right" id="Jenkins" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21674058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21674058" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -517,21 +503,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/controler/CalculetteControler.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/controler/AbstractControler.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/observer/Observable.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/model/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/observer/Observer.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/model/AbstractModel.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/vue/Calculette.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/MVCPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/mvc/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -606,13 +577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/Singleyeah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/Singleyeah.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sdz/villes/Sdz1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -745,16 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/annotationDeprecated/Deprecated.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/annotationDeprecated/Deprecated.java" />
     <entry file="jar:///usr/lib/jvm/oracle_jdk8/src.zip!/java/lang/Deprecated.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -828,31 +784,20 @@
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TestMonAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MonAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/NIVEAU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="324">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
             <element signature="e#420#421#0" expanded="true" />
@@ -870,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -884,20 +822,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="126">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -906,8 +834,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/TodoHTMLProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-738">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="1746">
+          <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MaClasse1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/annotations/monAnnotation/MonAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/test/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/test/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/test2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
