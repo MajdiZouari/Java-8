@@ -8,141 +8,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/sdz/anonymeLambda/Personne.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37a5ef21-dc7c-4ff9-8e51-51eeb31f53a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/animals/Anim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/animals/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdz/animals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Canin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Canin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Chien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Chien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/animals/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/anonymeLambda/TestFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/anonymeLambda/TestFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/collections/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/collections/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Alien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Pondre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projet1/com/sdz/interfaces/Pondre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Canin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Canin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Chien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Chien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Felin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Felin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Loup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Loup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Rintintin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Rintintin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/animals/Tigre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/animals/Tigre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/Personne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestMethodsReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestMethodsReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/anonymeLambda/TestSupplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/collections/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/AucunSoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/AucunSoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/CombatCouteau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/CombatCouteau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/CombatPistolet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/CombatPistolet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Courir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Courir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Deplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Deplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Dialoguer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Dialoguer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/EspritCombatif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/EspritCombatif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Marcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Marcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Pacifiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Pacifiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/PremierSoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/PremierSoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/comportement/Soin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/comportement/Soin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/daoPattern/DaoPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/daoPattern/DaoPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/daoPattern/StudentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/enumerations/AvantEnumeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/enumerations/AvantEnumeration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/enumerations/Langage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/enumerations/Langage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/enumerations/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/enumerations/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/Execution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/MonCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/MonCallable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/MonRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/MonRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/ServerLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/ServerLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/executor/TestTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/FactoryPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/Duo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/Duo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/Garage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/Solo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/Solo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/Voiture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/Voiture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/generecite/VoitureSansPermis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/generecite/VoitureSansPermis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/I2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/I2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Mitose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Mitose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Pondre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Pondre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Reproduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Reproduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/interfaces/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/interfaces/X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/latest/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/latest/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/latest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/latest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/latest/Mitose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/latest/Mitose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/latest/Pondre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/latest/Pondre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/latest/Reproduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/latest/Reproduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/CompteEnBanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/CompteEnBanque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/RunImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/RunImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/lesThreads/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/lesThreads/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/mvcPattern/MVCPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/mvcPattern/MVCPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/mvcPattern/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/BinaryObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/HexaObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/ObserverPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/observerPattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/observerPattern/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/personnages/Civil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/personnages/Civil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/personnages/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/personnages/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/personnages/Medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/personnages/Medecin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/personnages/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/personnages/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/personnages/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/personnages/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/singletonPattern/SdzSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/singletonPattern/SdzSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/singletonPattern/TestSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/singletonPattern/TestSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationSubstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/OperationSubstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/strategyPattern/StrategyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/strategyPattern/StrategyPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/stream/Couleur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/stream/Couleur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/stream/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/stream/Personne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/stream/TestStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/stream/TestStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/CalculatorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/MyListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/MyListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/AddressDisplayerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/AddressDisplayerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/AddressFetcherImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/implem/AddressFetcherImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/inter/AddressDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/inter/AddressDisplayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/inter/AddressFetcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/inter/AddressFetcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/mock/AddressFetcherMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/mock/AddressFetcherMock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/test/AddressDisplayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/main/test/AddressDisplayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/CalculatorImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/MyListImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/testsUnitaires/test/MyListImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/villes/Capitale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/villes/Capitale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/villes/NomVilleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/villes/NomVilleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/villes/NombreHabitantException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/villes/NombreHabitantException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/villes/Sdz1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/villes/Sdz1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdz/villes/Ville.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdz/villes/Ville.java" afterDir="false" />
-    </list>
+    <list default="true" id="37a5ef21-dc7c-4ff9-8e51-51eeb31f53a0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -237,8 +103,8 @@
       <file leaf-file-name="Anim.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sdz/animals/Anim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="144">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -621,7 +487,7 @@
       <workItem from="1552340274172" duration="545000" />
       <workItem from="1552345708805" duration="3121000" />
       <workItem from="1552645798612" duration="2186000" />
-      <workItem from="1552826485940" duration="2766000" />
+      <workItem from="1552826485940" duration="3616000" />
     </task>
     <servers />
   </component>
@@ -658,11 +524,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218366000" />
+    <option name="totallyTimeSpent" value="219216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-5" width="1858" height="1085" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -675,11 +540,11 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3398058" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Mongo Explorer" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4991511" weight="0.33117583" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4991511" visible="true" weight="0.33117583" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="right" id="Jenkins" order="9" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22228381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22228381" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1077,8 +942,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdz/animals/Anim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="144">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
