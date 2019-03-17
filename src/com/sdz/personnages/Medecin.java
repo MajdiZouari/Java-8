@@ -1,7 +1,9 @@
 package com.sdz.personnages;
 
 import com.sdz.comportement.*;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Medecin extends Personnage{
     public Medecin() {
         this.soin = new PremierSoin();

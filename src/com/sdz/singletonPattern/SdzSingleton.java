@@ -1,5 +1,7 @@
 package com.sdz.singletonPattern;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class SdzSingleton {
     /*********************************       ***********************************/
     //Le singletonPattern

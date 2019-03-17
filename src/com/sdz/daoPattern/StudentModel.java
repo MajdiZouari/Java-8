@@ -1,5 +1,7 @@
 package com.sdz.daoPattern;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class StudentModel {
     private String name;
     private int rollNo;

@@ -1,13 +1,8 @@
 package com.sdz.collections;
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.HashSet;
-import java.util.Hashtable;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ListIterator;
- 
+import java.util.*;
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Main {
  
   public static void main(String[] args) {
@@ -73,7 +68,22 @@ public class Main {
                 
     Object[] obj = hs.toArray();
     for(Object o : obj)
-      System.out.println(o);       
-    
+      System.out.println(o);
+
+
+    /************************    HashMap    ***************************************/
+    System.out.println("----------------     HashMap    -------------------");
+    HashMap<String, String> capitalCities = new HashMap<String, String>();
+    capitalCities.put("England", "London");
+    capitalCities.put("France", "Paris");
+    capitalCities.put("Norway", "Oslo");
+    capitalCities.put("USA", "Washington DC");
+
+    for (String i : capitalCities.keySet()) {
+      System.out.println("key: " + i + " value: " + capitalCities.get(i));
+    }
+    capitalCities.get("England");
+
+
   }
 }

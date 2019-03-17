@@ -1,5 +1,7 @@
 package com.sdz.lesThreads;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class RunImpl implements Runnable {
     private CompteEnBanque cb;
     private String name;

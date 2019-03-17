@@ -2,7 +2,9 @@ package com.sdz.daoPattern;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class StudentDaoImpl implements StudentDao {
 
     //list is working as a database

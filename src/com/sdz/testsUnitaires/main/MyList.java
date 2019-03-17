@@ -1,5 +1,7 @@
 package com.sdz.testsUnitaires.main;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public interface MyList<T extends Comparable<T>> {
 
     void add(T e);

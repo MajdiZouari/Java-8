@@ -1,5 +1,7 @@
 package com.sdz.factory;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class ShapeFactory {
 
     //use getShape method to get object of type shape

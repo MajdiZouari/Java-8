@@ -1,5 +1,7 @@
 package com.sdz.mvcPattern;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class StudentModel {
     private String rollNo;
     private String name;

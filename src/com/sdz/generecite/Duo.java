@@ -1,5 +1,7 @@
 package com.sdz.generecite;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Duo<T, S> {
     //Variable d'instance de type T
     private T valeur1;

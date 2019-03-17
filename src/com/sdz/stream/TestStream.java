@@ -8,7 +8,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class TestStream {
     public static void main(String[] args) {
         List<Personne> listP = Arrays.asList(
@@ -25,6 +27,10 @@ public class TestStream {
         sp.forEach(System.out::println);
 
         Stream.iterate(2d, (x) -> x + 1).limit(100).forEach(System.out::println);
+
+
+        List<String> myList= Arrays.asList("One", "Two");
+        Stream<String> lsStream = myList.stream();
 
         /*
         * Opérations intermédiaires sur les streams

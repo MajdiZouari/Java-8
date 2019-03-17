@@ -1,5 +1,7 @@
 package com.sdz.observerPattern;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class BinaryObserver extends Observer{
 
     public BinaryObserver(Subject subject){

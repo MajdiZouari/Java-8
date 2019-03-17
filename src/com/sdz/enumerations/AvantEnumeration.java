@@ -1,5 +1,7 @@
 package com.sdz.enumerations;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class AvantEnumeration {
 
 	
@@ -9,17 +11,17 @@ public class AvantEnumeration {
 	   
 	public void fait(int param){
 	    if(param == PARAM1)
-	      System.out.println("Fait à la façon N°1");
+	      System.out.println("Fait ï¿½ la faï¿½on Nï¿½1");
 	    if(param == PARAM2)
-	    	System.out.println("Fait à la façon N°2");
+	    	System.out.println("Fait ï¿½ la faï¿½on Nï¿½2");
 	}
 		  
 	  /************* Avec Enum *******************/
 	public void faitEnum(Langage param){
 		if(param.equals(Langage.JAVA))
-		    System.out.println("Fait à la façon N°1");
+		    System.out.println("Fait ï¿½ la faï¿½on Nï¿½1");
 		if(param.equals(Langage.PHP))
-			System.out.println("Fait à la façon N°2");
+			System.out.println("Fait ï¿½ la faï¿½on Nï¿½2");
 	  }
 
 	}

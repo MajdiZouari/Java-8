@@ -1,5 +1,7 @@
 package com.sdz.interfaces;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class X implements I, I2{
 
 	  public void A(){

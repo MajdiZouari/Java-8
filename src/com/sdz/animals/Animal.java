@@ -1,5 +1,7 @@
 package com.sdz.animals;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 abstract class Animal {
 
 	  protected String couleur;

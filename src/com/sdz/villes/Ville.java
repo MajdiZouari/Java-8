@@ -1,7 +1,9 @@
 package com.sdz.villes;
 
 import java.util.Objects;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Ville{   
 
   protected String nomVille;
@@ -52,17 +54,7 @@ public class Ville{
                 System.out.println("Le nombre d'instances de la classe com.sdz.villes.Ville est : " + Ville.getNombreInstancesBis());
 		    }
 		  }
-  
-//  @Override
-//public int hashCode() {
-//	final int prime = 31;
-//	int result = 1;
-//	result = prime * result + categorie;
-//	result = prime * result + nbreHabitants;
-//	result = prime * result + ((nomPays == null) ? 0 : nomPays.hashCode());
-//	result = prime * result + ((nomVille == null) ? 0 : nomVille.hashCode());
-//	return result;
-//}
+
   public int hashCode() {
 	  return Objects.hash(categorie, nbreHabitants, nomPays, nomVille);
 	}

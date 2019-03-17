@@ -1,7 +1,9 @@
 package com.sdz.executor;
 
 import java.util.concurrent.Callable;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Task implements Callable<Integer> {
 
     private final int sleepTime;

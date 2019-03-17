@@ -1,5 +1,7 @@
 package com.sdz.mvcPattern;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class StudentController {
     private StudentModel model;
     private StudentView view;

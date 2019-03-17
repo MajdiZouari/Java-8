@@ -12,7 +12,9 @@ import java.util.Properties;
 
 import static org.junit.Assert.*;
 
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class MyListImplTest {
 
     private static MyList<Integer> sut;  //la classe à tester

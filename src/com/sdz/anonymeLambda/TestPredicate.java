@@ -3,7 +3,9 @@ package com.sdz.anonymeLambda;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class TestPredicate {
 
     public static void main(String[] args) {

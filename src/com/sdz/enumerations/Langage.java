@@ -1,5 +1,7 @@
 package com.sdz.enumerations;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public enum Langage {
 	  //Objets directement construits
 	  JAVA("Langage JAVA", "Eclipse"),

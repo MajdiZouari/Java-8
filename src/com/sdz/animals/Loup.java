@@ -1,5 +1,7 @@
 package com.sdz.animals;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Loup extends Canin {
 	 
 	  public Loup(){

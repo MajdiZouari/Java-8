@@ -5,7 +5,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.*;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class TestFunction {
     public static void main(String[] args) {
 
@@ -17,7 +19,17 @@ public class TestFunction {
         );
 
         Function<Personne, String> f1 = (Personne p) -> p.getNom();
+       /* for (Personne p : lPersonne) {
+            f1.apply(p);
+            //func.apply(p) retournera ici le nom de l'objet Personne
+        }*/
         Function<Personne, Integer> f2 = (Personne p) -> p.getAge() * 2;
+        for (Personne p : lPersonne) {
+            f2.apply(p);
+            //func.apply(p) retournera ici le nom de l'objet Personne
+        }
+        System.out.println(lPersonne);
+
         System.out.println(transformToListString(lPersonne, f1));
         System.out.println(transformToListInt(lPersonne, f2));
 

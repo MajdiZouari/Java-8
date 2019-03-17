@@ -10,6 +10,9 @@ import java.util.concurrent.Executors;
 *serveur multi-threads qui va traiter les connexions entrantes dans un thread différent
 *
 * */
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class ServerLauncher {
     public static void main(String[] args){
         //On se sert d'un pool de thread pour limiter le nombre de threads en mémoire

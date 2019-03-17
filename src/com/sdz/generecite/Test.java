@@ -2,7 +2,9 @@ package com.sdz.generecite;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Test {
     public static void main(String[] args) {
         Solo<Integer> val = new Solo<Integer>(12);

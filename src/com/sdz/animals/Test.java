@@ -1,7 +1,11 @@
 package com.sdz.animals;
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Test {
 	 
 	  public static void main(String[] args) {
+
 
 	    //Les méthodes d'un chien 
 	    Chien c = new Chien("Gris bleuté", 20);

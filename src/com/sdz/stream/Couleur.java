@@ -1,5 +1,7 @@
 package com.sdz.stream;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public enum Couleur {
     MARRON("marron"),
     BLEU("bleu"),

@@ -1,5 +1,7 @@
 package com.sdz.stream;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class Personne {
 
     public Double taille = 0.0d, poids = 0.0d;

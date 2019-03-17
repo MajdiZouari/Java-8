@@ -1,5 +1,7 @@
 package com.sdz.testsUnitaires.main;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class CalculatorImpl implements Calculator {
     @Override
     public int multiply(int a, int b) {

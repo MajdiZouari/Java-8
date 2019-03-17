@@ -5,7 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
-
+/**
+ * Created by MZouari on 18/01/2019.
+ */
 public class TestConsumer {
     public static void main(String[] args) {
 
